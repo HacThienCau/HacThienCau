@@ -12,20 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[!header](https://capsule-render.vercel.app/api?type=speech&height=200&color=ff005c&text=Welcome%20to%20my%20GitHub%20profile!&section=header&fontAlign=50&fontAlignY=45&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=ff005c&text=Welcome%20to%20my%20GitHub%20profile!&section=header&fontAlign=50&fontAlignY=45&fontSize=40&fontColor=ffffff)
 ## 👋 About me
 - Hello! My name is HacThienCau, real name is Uyen. I am a student at University of Information Technology (UIT - VNUHCM).
 - I'm currently working on some web design projects. And I'm also learning about game design. I love new knowledge, LOL. 🤣
 - I'm female, she/her pronouns, still single (if you care 🤣).
 ## 🔧 Skills / Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/>
 ## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HacThienCau&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HacThienCau&layout=compact&theme=tokyonight)
