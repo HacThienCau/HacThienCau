@@ -24,11 +24,10 @@
 ## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HacThienCau&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HacThienCau&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HacThienCau&layout=compact&theme=tokyonight&count_private=true&cache_seconds=60" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HacThienCau&theme=react-dark" />
   <img src="https://streak-stats.demolab.com?user=HacThienCau&theme=dark&hide_border=true" />
 </p>
-
 
 ---
 
@@ -41,7 +40,5 @@
 
 
 ## 📞 Contact
-<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/uy%C3%AAn-nguy%E1%BB%85n-%C4%91%C4%83ng-h%C6%B0%C6%A1ng/))
 [![Personal Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragneel.takeshi@gmail.com)
-</p>
