@@ -40,5 +40,5 @@
 
 
 ## 📞 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/uy%C3%AAn-nguy%E1%BB%85n-%C4%91%C4%83ng-h%C6%B0%C6%A1ng/))
-[![Personal Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragneel.takeshi@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/uy%C3%AAn-nguy%E1%BB%85n-%C4%91%C4%83ng-h%C6%B0%C6%A1ng/))
+![Personal Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)(mailto:dragneel.takeshi@gmail.com)
