@@ -3,7 +3,7 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 - Hello! My full name is Nguyen Dang Huong Uyen. Nguyen is my family name, and Uyen is my given name. But you can call me **HacThienCau**, or just **Hac** for short. 😘
 - I am currently a student at the **University of Information Technology (UIT - VNUHCM)**.
 - I’m working on several web design projects and also learning about game development. I really enjoy exploring new knowledge. 🤓
@@ -11,8 +11,8 @@
 
 ---
 
-## 🔧 Skills / Tech Stack
-# Programming Languages
+# 🔧 Skills / Tech Stack
+## Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java"/>
@@ -20,14 +20,14 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python"/>
 </p>
 
-# Databases
+## Databases
 <p align="center">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" title="Firebase"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
 </p>
 
-# Frameworks, Platforms and Libraries
+## Frameworks, Platforms and Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" title="Expo"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express.js"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 Stats
+# 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HacThienCau&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HacThienCau&layout=compact&theme=tokyonight&count_private=true&cache_seconds=60" />
@@ -57,7 +57,7 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 - [Library-Web](https://github.com/HacThienCau/Library-Web) – **ReadHub** is a modern library management system with both user and admin interfaces. Built with a client–server architecture: ReactJS + Next.js for the frontend and Spring Boot (Maven) for the backend.
 <p align="center">
 <img src="https://res.cloudinary.com/dde1lzogy/image/upload/v1757868282/readhub_homepage_kclcn2.png" width="400" title="ReadHub Home Page" alt="ReadHub Home Page"/>
@@ -83,6 +83,6 @@
 
 ---
 
-## 📞 Contact
+# 📞 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uy%C3%AAn-nguy%E1%BB%85n-%C4%91%C4%83ng-h%C6%B0%C6%A1ng)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragneel.takeshi@gmail.com)
