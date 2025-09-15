@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=ff005c&text=Welcome%20to%20my%20GitHub%20profile!&section=header&fontAlign=50&fontAlignY=45&fontSize=40&fontColor=ffffff)
+<img src="https://res.cloudinary.com/dde1lzogy/image/upload/v1757932605/banner_png_foojgu.png" height="200" title="HacThienCau Banner"/>
+
+---
 
 ## 👋 About Me
-- Hello! My real name is Uyen, but you can call me **HacThienCau** or **Hac** for short. I am currently a student at the University of Information Technology (UIT - VNUHCM).
+- Hello! My full name is Nguyen Dang Huong Uyen. Nguyen is my family name, and Uyen is my given name. But you can call me **HacThienCau**, or just **Hac** for short. 😘
+- I am currently a student at the **University of Information Technology (UIT - VNUHCM)**.
 - I’m working on several web design projects and also learning about game development. I really enjoy exploring new knowledge. 🤓
 - Pronouns: she/her. (Still single, if that matters 🤣)
 
@@ -57,7 +61,6 @@
 
 ---
 
-
 ## 📞 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uy%C3%AAn-nguy%E1%BB%85n-%C4%91%C4%83ng-h%C6%B0%C6%A1ng)
-[![Personal Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragneel.takeshi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragneel.takeshi@gmail.com)
