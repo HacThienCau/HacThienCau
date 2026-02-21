@@ -4,7 +4,7 @@
 ---
 
 # 👋 About Me
-- Hello! My full name is Nguyen Dang Huong Uyen. Nguyen is my family name, and Uyen is my given name. But you can call me **HacThienCau**, or just **Hac** for short. 😘
+- Hello! You can call me **HacThienCau**, or just **Hac** for short. 😘
 - I am currently a student at the **University of Information Technology (UIT - VNUHCM)**.
 - I’m working on several web design projects and also learning about game development. I really enjoy exploring new knowledge. 🤓
 - Pronouns: she/her. (Still single, if that matters 🤣)
@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" title="Next JS"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS"/>
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" title="Nodemon"/>
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" title="OpenCV"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React Native"/>
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" title="Socket.io"/>
@@ -66,7 +65,7 @@
 <img src="https://res.cloudinary.com/dde1lzogy/image/upload/v1757868288/readhub_scanner_g2wjzu.png" width="400"  title="ReadHub Scanner" alt="ReadHub Scanner"/>
 </p>
 
-- [Vibely-study-social-web](https://github.com/HacThienCau/Vibely-study-social-web) – **VIBELY** is an educational social networking web app. Tech stack: Next.js (frontend), Express.js (backend), MongoDB Atlas, and Cloudinary for media storage. Includes Docker deployment and a CI/CD pipeline with GitHub Actions. Developed as part of the **IE213.P21** course.  
+- [Vibely-study-social-web](https://github.com/HacThienCau/Vibely-study-social-web) – **VIBELY** is an educational social networking web app. Tech stack: Next.js (frontend), Express.js (backend), MongoDB Atlas, and Cloudinary for media storage. Includes Docker deployment and a CI/CD pipeline with GitHub Actions.
 <p align="center">
 <img src="https://res.cloudinary.com/dde1lzogy/image/upload/v1757868281/vibely_homepage_slkafg.png" width="400" title="Vibely Home Page" alt="Vibely Home Page"/>
 <img src="https://res.cloudinary.com/dde1lzogy/image/upload/v1757868280/vibely_t%C3%A0i_li%E1%BB%87u_xwrt8s.png" width="400" title="Vibely Document Page" alt="Vibely Document Page"/>
@@ -84,5 +83,4 @@
 ---
 
 # 📞 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uy%C3%AAn-nguy%E1%BB%85n-%C4%91%C4%83ng-h%C6%B0%C6%A1ng)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragneel.takeshi@gmail.com)
